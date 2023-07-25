@@ -17,9 +17,9 @@ let overlayUrls = [
   // Gronkh overlay
   //"https://raw.githubusercontent.com/FeLuckLP/rplace/main/overlay.png",
   // r/placeDE overlay
-  "https://place.army/overlay_target.png",
+//https://place.army/overlay_target.png",
   // eigenes Overlay
-  //"https://raw.githubusercontent.com/rplacebonjwa/rplace/main/overlay.png",
+  "https://raw.githubusercontent.com/rplacebonjwa/rplace/main/overlay.png",
 ];
 
 let overlayContext = null;
